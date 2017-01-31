@@ -7,11 +7,10 @@ body {
 
 .header {
 	background-color: #ffffff;
-	border-color: #cccccc;
 	height: 53px;
 	margin: 0 0 0 0;
 	padding: 25px 0 0 0;	
-	border-bottom: solid;
+	border-bottom: solid #cccccc;
 	
 }
 
@@ -92,6 +91,7 @@ p {
 	float: left;
 	background-color: #ffffff;
 	padding: 25px;
+	border: solid #cccccc;
 }
 
 .leftside h1 {
@@ -109,6 +109,7 @@ p {
 	float: right;
 	background-color: #ffffff;
 	padding: 25px;
+	border: solid #cccccc;
 }
 
 .socialMedia img {
